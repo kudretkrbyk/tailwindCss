@@ -1,0 +1,39 @@
+.icon {
+    width: 40vmin;
+    height: 40vmin;
+    background-image:url("https://www.radiustheme.com/demo/wordpress/themes/quiklearn/wp-content/themes/quiklearn/assets/element/course-cat.svg");
+    background-repeat: no-repeat;
+    
+    background-position: relative;
+}
+.icon-purple{
+    width: 10vmin;
+    height: 10vmin;
+}
+
+#icon{
+    width: 5vmin;
+    height: 5vmin;
+
+
+}
+#icon-Instructors{
+    width: 7vmin;
+    height: 7vmin;
+
+
+}
+.bg-custom{
+    background-image: url('https://www.radiustheme.com/demo/wordpress/themes/quiklearn/wp-content/uploads/2023/08/shape-1-1.svg');
+  background-repeat: no-repeat;
+  background-position: left bottom; /* Sol alt köşe */ 
+}
+
+
+
+
+
+
+
+
+
